@@ -1,0 +1,11 @@
+c:\users\nguyen son duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\bin\Debug\ShowKeyBoard.exe.config
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\Interop.Accessibility.dll
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.csproj.ResolveComReference.cache
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\bin\Debug\ShowKeyBoard.exe
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\bin\Debug\ShowKeyBoard.pdb
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.Form1.resources
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.Properties.Resources.resources
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.csproj.GenerateResource.Cache
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.exe
+C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.pdb
