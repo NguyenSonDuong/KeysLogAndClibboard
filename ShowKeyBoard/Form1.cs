@@ -174,6 +174,16 @@ namespace ShowKeyBoard
             textBox1.Text = "";
             UnhookWindowsHookEx(_hookID);
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            flow.Controls.Clear();
+        }
     }
 
 }
