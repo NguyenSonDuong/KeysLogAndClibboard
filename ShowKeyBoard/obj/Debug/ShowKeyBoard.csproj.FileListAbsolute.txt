@@ -9,3 +9,24 @@ C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\Sho
 C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.csproj.GenerateResource.Cache
 C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.exe
 C:\Users\Nguyen Son Duong\documents\visual studio 2015\Projects\ShowKeyBoard\ShowKeyBoard\obj\Debug\ShowKeyBoard.pdb
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\ShowKeyBoard.exe.config
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\ShowKeyBoard.exe
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\ShowKeyBoard.pdb
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\ShowKeyBoard.csproj.AssemblyReference.cache
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\Interop.Accessibility.dll
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\ShowKeyBoard.csproj.ResolveComReference.cache
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\ShowKeyBoard.Form1.resources
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\ShowKeyBoard.Properties.Resources.resources
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\ShowKeyBoard.csproj.GenerateResource.cache
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\ShowKeyBoard.csproj.CoreCompileInputs.cache
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\ShowKeyBoard.exe
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\ShowKeyBoard.pdb
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\Telegram.Bot.dll
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\bin\Debug\Telegram.Bot.xml
+C:\Users\MinhHoangJSC\Source\Repos\KeysLogAndClibboard\ShowKeyBoard\obj\Debug\ShowKeyBoard.csproj.CopyComplete
